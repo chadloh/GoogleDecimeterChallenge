@@ -1,7 +1,7 @@
 # GoogleDecimeterChallenge
 Google Smartphone Decimeter Challenge 2022: Improve high precision GNSS positioning and navigation accuracy on smartphones
 
-##Goal of the Competition
+## Goal of the Competition
 "The goal of this competition is to compute smartphones location down to the decimeter or even centimeter resolution, which could enable services that require lane-level accuracy such as HOV lane ETA estimation. Your work will help produce more accurate positions, bridging the connection between the geospatial information of finer human behavior and mobile internet with improved granularity. As a result, new navigation methods could be built upon the more precise data." Kaggle challenge page
 
 The training data is from 62 separate drives around San Francisco and the Los Angeles area. Navigation Satellite Systems (GNSS) Data, Inertial Measurement Unit (IMU) Data were collected from 1-5 phones during each drive. In addition, the ground truth data were collected from a high-precision GNSS-IMU device in the exact vehicle. The map below shows the traces of the ground truth and the baseline obtained from the GNSS data.
